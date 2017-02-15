@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d0c789092fa42dc5688ef672d8886513a15fa7fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80a8e7dfa51ccdd59bc0290f8171c84b22a29af6">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1297f7c8eff9afa79902e2b447be6ff3e9d26e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_50a13d2c18b1ce74fa2a29e4e2a1317c432a88a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_7e99adc9cc48bb1c4bca47a7d3523680458c0feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_7e2283a535068f9c919ec8fef32917b32aeccbdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_ae2a90584854669e4e8c0ef1396b35235402f57d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fca9c4bff815985d7626cfdc406d9d506b83f38">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70d3a313550b5b8a02d04bd8c5c416922ec0170c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_8dd7078d1ddfe2d11a2384e82ccc75a66394779d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_48825d2dbc520de2b9b918bae5bdc4e5eef3d6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_d45c9a435a4c346156a3f9a7af5b3c0d79b1f9a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_1bfca1d3cdd8b5b9b3d2583e0b433e72e3663e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_a35edaf8f56772bccc520c12ffbc9d5492bff520\classes.dex" />
+    </item>
+
+</items>

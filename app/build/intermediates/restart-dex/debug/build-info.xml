@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1362820984193063"
+    token="-4974404021950643862"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="1362054086288677"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1362820984193063"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Amal\Documents\AndroidProjects\ExpandableListViewSample\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
